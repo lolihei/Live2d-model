@@ -1,3 +1,6 @@
+复刻自 Eikanya/Live2d-model 被我拿来修改，用于我另一个复刻自 stevenjoezhang/live2d-widget 项目的模型资源
+
+
 # Live2d model
 
 个人收集的Live2d模型，一般提取自游戏中，手游居多。手游的Live2d，音频资源一般有加密，解密方法来源与网络上。
